@@ -5,7 +5,7 @@
 - Tên nhóm: Aliba3
 - Lớp: L3B
 - Repo nhóm: `K5-L3B-DAY13-Aliba3-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt: `https://github.com/VinUni-AI20k/K5-L34-Day13-Lab`, nhánh `main`
+- URL repo, nhánh nộp, commit chốt: `https://github.com/griin-03/K5-L3B-DAY13-Aliba3-LaunchEconomics`, nhánh `main`, commit `b391a94`
 
 ## Thành viên
 
